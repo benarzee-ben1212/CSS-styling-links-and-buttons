@@ -1,0 +1,46 @@
+#div {
+    background-color: #d9ff00;
+    width: 600px;
+    height: 10px;
+    text-align: center;
+    padding: 30px;
+}
+
+a:link {
+    text-decoration: none;
+    color: rgb(2, 0, 128);
+  }
+  
+  a:visited {
+    text-decoration: none;
+    color: seagreen;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    color: red;
+  }
+  
+  a:active {
+    text-decoration: underline;
+    color: steelblue;
+  }
+
+  #div2 {
+      margin-top: 20PX;;
+  }
+
+  .button {
+      padding: 10px;
+      margin:20px;
+      background-color: #b83228; 
+      color:white;
+      border-radius: 5px;
+      cursor: pointer;
+  }
+
+  .button:hover {
+      background-color: violet;
+      cursor: pointer;
+  }
+  
